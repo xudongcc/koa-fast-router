@@ -1,6 +1,6 @@
 {
   "name": "koa-fast-router",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Fast request router for Node.js with Koa.js",
   "main": "lib/Router.js",
   "files": [
@@ -27,13 +27,13 @@
   },
   "homepage": "https://github.com/xudongcc/koa-fast-router#readme",
   "dependencies": {
-    "fast-route": "^2.0.0",
+    "fast-route": "^2.0.1",
     "koa-compose": "^4.0.0"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
     "eslint-config-standard": "^10.2.1",
-    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-node": "^5.0.0",
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^3.0.1",
